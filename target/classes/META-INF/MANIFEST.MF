@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Built-By: ravi
+Build-Jdk: 11.0.11
+Implementation-Title: rest.api.jpa
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.example
+Implementation-URL: https://spring.io/projects/spring-boot/rest.api.jpa
+Created-By: Maven Integration for Eclipse
+
